@@ -27,9 +27,9 @@ ONLY JAVA(배운게 JAVA밖에 없었다)
 -----------
 ## 실행 방법
 * [EXE파일](https://drive.google.com/file/d/1LvyqZO1jGFN5bHDyW6L9epqpUBTQxQxN/view?usp=sharing, "google link")
-```
+
 Ctrl+링크클릭 &#10132; Zip파일 압축해제 &#10132; test.exe 파일실행
-```
+
 -----------
 ## 개발 설계
 * [ToDoList](https://docs.google.com/document/d/1bYT4GFLcFJ_UjXLoZdrYLiE4dDvtWJQcQLat3OIq1Uw/edit?usp=sharing, "google link")
@@ -40,3 +40,7 @@ Ctrl+링크클릭 &#10132; Zip파일 압축해제 &#10132; test.exe 파일실행
 * [테스트 시나리오](https://docs.google.com/spreadsheets/d/1CY76u1gdYxntvMX9br2vEYhtN2aB_hWmugFf2KjUCZ0/edit?usp=sharing, "google link")
 * [프로젝트 최종 PPT](https://docs.google.com/presentation/d/1IcYqqF6rL51cmZAG1YdVOpMSdzb3kdBKrcT2FNv4n4k/edit?usp=sharing, "google link")
 -----------
+## 느낀 점
+```
+
+```
