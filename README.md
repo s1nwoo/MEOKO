@@ -24,7 +24,7 @@
 ## ▶ 실행 방법
 * [EXE파일](https://drive.google.com/file/d/1LvyqZO1jGFN5bHDyW6L9epqpUBTQxQxN/view?usp=sharing, "google link")
 
-Ctrl+링크클릭 &#10132; Zip파일 압축해제 &#10132; test.exe 파일실행
+Ctrl+&#128070;클릭 &#10132; Zip파일 압축해제 &#10132; test.exe 파일실행
 
 -----------
 ## &#128221; 개발 설계
