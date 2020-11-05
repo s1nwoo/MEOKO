@@ -11,6 +11,7 @@
 * 개발기간 : 2020.4.29 ~ 5.12(약 10일)
 * 사용기술 : JAVA
 * 개발팀원 : [정신우](https://github.com/s1nwoo "정신우") [남영준](https://github.com/YoungJoonNam "남영준") [송가람](https://github.com/NikkieS "송가람") [이혜진](https://github.com/1117j "이혜진")
+* 담당업무 : VIEW 파트 및 EXE파일 변환
 
 -----------
 
